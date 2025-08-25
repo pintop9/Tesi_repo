@@ -1,1 +1,2 @@
-This text is from main
+This text is from main and merged it from another_test
+
